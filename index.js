@@ -1,4 +1,4 @@
-// Arrays Labs
+// Intro to Arrays Labs
 // Rev. 22Jan2019
 
 /*
@@ -34,4 +34,12 @@ Billy Joel
 
 /*
 6. Remove Billy Joel from the singers array
+*/
+
+/*
+7. Use a for...next loop to loop over numbers from 1 to 100, inserting only the odd-numbered ones into a new array, odds
+*/
+
+/*
+8. Use forEach to loop over the odds array, doubling each number and placing it into a new array, evens
 */
